@@ -1,5 +1,5 @@
 # Переменные
-team1_num = 6
+team1_num = 5
 team2_num = 6
 score_1 = 40
 score_2 = 42
